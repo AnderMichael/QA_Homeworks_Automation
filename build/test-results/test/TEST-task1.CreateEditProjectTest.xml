@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="task1.CreateEditProjectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-12T07:12:20" hostname="LAPTOP-V6TDORT5" time="33.867">
+  <properties/>
+  <testcase name="verifyEditTest()" classname="task1.CreateEditProjectTest" time="33.867"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
